@@ -56,7 +56,7 @@
             let d = date.split("-");
             console.log(d);
 
-            return `${d[2].slice(0, 2)} ${turnNumberIntoMonth(d[1])} ${d[0]}`;
+            return `${d[2].slice(0, 2)} ${turnNumberIntoMonth(d[1])} '${d[0].slice(2)}`;
         }
 
         /// turn string (number) into month
