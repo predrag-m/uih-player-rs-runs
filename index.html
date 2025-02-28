@@ -91,19 +91,10 @@
 
         /// find and return player's name by their ID
         function findPlayerName(playerID) {
-            let playerName = "";
-            let playerNotInDB = "";
             for (let player of playersListBP) {
                 if (player.id == playerID) {
-                    playerName = player.name;
-                } else {
-                    playerNotInDB = player.name;
+                    return player.name;
                 }
-            }
-            if (playerName !== "") {
-                return playerName;
-            } else {
-                return playerNotInDB;
             }
         }
 
