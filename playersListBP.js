@@ -15,6 +15,15 @@ const playersListBP = [
         surplusPoints: 0
     },
     {
+        name: "anjisan [Ally]",
+        id: "173101834364387328",
+        goal: 0,
+        group: "",
+        currentPoints: 0,
+        remainingPoints: 0,
+        surplusPoints: 0
+    },
+    {
         name: "Ash",
         id: "145001790625153024",
         goal: 0,
@@ -26,6 +35,15 @@ const playersListBP = [
     {
         name: "Ash707",
         id: "453354733827129355",
+        goal: 0,
+        group: "",
+        currentPoints: 0,
+        remainingPoints: 0,
+        surplusPoints: 0
+    },
+    {
+        name: "Azskip",
+        id: "779193979077525535",
         goal: 0,
         group: "",
         currentPoints: 0,
@@ -96,6 +114,15 @@ const playersListBP = [
         surplusPoints: 0
     },
     {
+        name: "Creed Empire",
+        id: "642503359525289988",
+        goal: 0,
+        group: "",
+        currentPoints: 0,
+        remainingPoints: 0,
+        surplusPoints: 0
+    },
+    {
         name: "CTDUNGX",
         id: "763390261950152704",
         goal: 0,
@@ -132,8 +159,26 @@ const playersListBP = [
         surplusPoints: 0
     },
     {
+        name: "Eclypse [Ally]",
+        id: "365570580159791105",
+        goal: 0,
+        group: "",
+        currentPoints: 0,
+        remainingPoints: 0,
+        surplusPoints: 0
+    },
+    {
         name: "EdwinNL",
         id: "261494840578146304",
+        goal: 0,
+        group: "",
+        currentPoints: 0,
+        remainingPoints: 0,
+        surplusPoints: 0
+    },
+    {
+        name: "EmperorAlexand",
+        id: "912626451478638612",
         goal: 0,
         group: "",
         currentPoints: 0,
@@ -179,6 +224,15 @@ const playersListBP = [
     {
         name: "GameAltAcct",
         id: "1224774988855382086",
+        goal: 0,
+        group: "",
+        currentPoints: 0,
+        remainingPoints: 0,
+        surplusPoints: 0
+    },
+    {
+        name: "Ganczo",
+        id: "928600742711922700",
         goal: 0,
         group: "",
         currentPoints: 0,
@@ -240,6 +294,15 @@ const playersListBP = [
         surplusPoints: 0
     },
     {
+        name: "Halluwainggg [Ally]",
+        id: "1254823277663355004",
+        goal: 0,
+        group: "",
+        currentPoints: 0,
+        remainingPoints: 0,
+        surplusPoints: 0
+    },
+    {
         name: "haywire_fubar",
         id: "479963412483276809",
         goal: 0,
@@ -294,6 +357,15 @@ const playersListBP = [
         surplusPoints: 0
     },
     {
+        name: "Kami [Ally]",
+        id: "607081268596965376",
+        goal: 0,
+        group: "",
+        currentPoints: 0,
+        remainingPoints: 0,
+        surplusPoints: 0
+    },
+    {
         name: "KaliHan",
         id: "795380673439465512",
         goal: 0,
@@ -305,6 +377,15 @@ const playersListBP = [
     {
         name: "Kenban",
         id: "331555885887520769",
+        goal: 0,
+        group: "",
+        currentPoints: 0,
+        remainingPoints: 0,
+        surplusPoints: 0
+    },
+    {
+        name: "Kris [Ally]",
+        id: "786694924400853012",
         goal: 0,
         group: "",
         currentPoints: 0,
@@ -350,6 +431,15 @@ const playersListBP = [
     {
         name: "Leper Friend",
         id: "449415935682412545",
+        goal: 0,
+        group: "",
+        currentPoints: 0,
+        remainingPoints: 0,
+        surplusPoints: 0
+    },
+    {
+        name: "Leto Atreides",
+        id: "743594925354123355",
         goal: 0,
         group: "",
         currentPoints: 0,
@@ -429,6 +519,15 @@ const playersListBP = [
         surplusPoints: 0
     },
     {
+        name: "Mouss [Ally]",
+        id: "826842017216462879",
+        goal: 0,
+        group: "",
+        currentPoints: 0,
+        remainingPoints: 0,
+        surplusPoints: 0
+    },
+    {
         name: "Mr.Mercenary",
         id: "988058866631733318",
         goal: 0,
@@ -438,8 +537,35 @@ const playersListBP = [
         surplusPoints: 0
     },
     {
+        name: "MrAlGore [Ally]",
+        id: "701862486214705172",
+        goal: 0,
+        group: "",
+        currentPoints: 0,
+        remainingPoints: 0,
+        surplusPoints: 0
+    },
+    {
         name: "MrBeat",
         id: "191960306988220417",
+        goal: 0,
+        group: "",
+        currentPoints: 0,
+        remainingPoints: 0,
+        surplusPoints: 0
+    },
+    {
+        name: "Nagahara [Ally]",
+        id: "642317562801029120",
+        goal: 0,
+        group: "",
+        currentPoints: 0,
+        remainingPoints: 0,
+        surplusPoints: 0
+    },
+    {
+        name: "Nannf [Ally]",
+        id: "965384011637735495",
         goal: 0,
         group: "",
         currentPoints: 0,
@@ -465,6 +591,15 @@ const playersListBP = [
         surplusPoints: 0
     },
     {
+        name: "Notadoctor",
+        id: "697746739989446689",
+        goal: 0,
+        group: "",
+        currentPoints: 0,
+        remainingPoints: 0,
+        surplusPoints: 0
+    },
+    {
         name: "Nozra",
         id: "346797203240517633",
         goal: 0,
@@ -476,6 +611,15 @@ const playersListBP = [
     {
         name: "Owenspears",
         id: "353268237355581451",
+        goal: 0,
+        group: "",
+        currentPoints: 0,
+        remainingPoints: 0,
+        surplusPoints: 0
+    },
+    {
+        name: "papinator63",
+        id: "422250225554685983",
         goal: 0,
         group: "",
         currentPoints: 0,
@@ -528,7 +672,7 @@ const playersListBP = [
         surplusPoints: 0
     },
     {
-        name: "Rommel",
+        name: "Rommel [Ally]",
         id: "277225692846882819",
         goal: 0,
         group: "",
@@ -564,6 +708,24 @@ const playersListBP = [
         surplusPoints: 0
     },
     {
+        name: "Shael",
+        id: "104446306759491584",
+        goal: 0,
+        group: "",
+        currentPoints: 0,
+        remainingPoints: 0,
+        surplusPoints: 0
+    },
+    {
+        name: "Schro",
+        id: "1285192550877106226",
+        goal: 0,
+        group: "",
+        currentPoints: 0,
+        remainingPoints: 0,
+        surplusPoints: 0
+    },
+    {
         name: "Sidhero",
         id: "590842518229221377",
         goal: 0,
@@ -584,6 +746,15 @@ const playersListBP = [
     {
         name: "Sivan Highlander",
         id: "884547980399636532",
+        goal: 0,
+        group: "",
+        currentPoints: 0,
+        remainingPoints: 0,
+        surplusPoints: 0
+    },
+    {
+        name: "Snugsterr",
+        id: "190283785470869506",
         goal: 0,
         group: "",
         currentPoints: 0,
@@ -663,6 +834,15 @@ const playersListBP = [
         surplusPoints: 0
     },
     {
+        name: "Trabelco [Ally]",
+        id: "411967303249428500",
+        goal: 0,
+        group: "",
+        currentPoints: 0,
+        remainingPoints: 0,
+        surplusPoints: 0
+    },
+    {
         name: "Triskal",
         id: "697093695023087628",
         goal: 0,
@@ -674,6 +854,15 @@ const playersListBP = [
     {
         name: "TugRuls",
         id: "688114152098496558",
+        goal: 0,
+        group: "",
+        currentPoints: 0,
+        remainingPoints: 0,
+        surplusPoints: 0
+    },
+    {
+        name: "Velric Ais",
+        id: "512861696478543872",
         goal: 0,
         group: "",
         currentPoints: 0,
